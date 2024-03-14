@@ -6,9 +6,7 @@ This game was created to evaluate the knowledge learned in the video game develo
 
 his game is about dodging as many cars as possible so that the car advances faster and makes it more difficult to pass the levels, since every five cars increases the level and the speed.  
 
-# Conclusion
 
-The creation of this video game was made in visual studio code and strengthens the player's dexterity since the faster the level goes, the more concentrated they will have to be to be able to advance as much as possible.
 
 # Entity relationship model
 
@@ -27,3 +25,11 @@ This class diagram illustrates the Car and PlayerVehicle classes, along with the
 
 ![diagrama de clases ](https://github.com/Jhon12z/Juego/assets/133507283/df67be78-3b5b-4a0d-b2ca-53f3ad904590)
 
+# Data Dictionary
+
+![diccionario datos ](https://github.com/Jhon12z/Juego/assets/133507283/c69f29ba-c4bc-4b14-9eff-cc83b57419e1)
+
+
+# Conclusion
+
+The creation of this video game was made in visual studio code and strengthens the player's dexterity since the faster the level goes, the more concentrated they will have to be to be able to advance as much as possible.
