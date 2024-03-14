@@ -27,7 +27,8 @@ This class diagram illustrates the Car and PlayerVehicle classes, along with the
 
 # Data Dictionary
 
-![diccionario datos ](https://github.com/Jhon12z/Juego/assets/133507283/c69f29ba-c4bc-4b14-9eff-cc83b57419e1)
+![diccionario datos ](https://github.com/Jhon12z/Juego/assets/133507283/d9053744-ccc3-4902-b9ed-53b1fc39dae6)
+
 
 
 # Conclusion
