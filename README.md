@@ -12,7 +12,7 @@ The creation of this video game was made in visual studio code and strengthens t
 
 # Entity relationship model
 
-
+![er](https://github.com/Jhon12z/Juego/assets/133507283/8157d9dc-dbef-40f2-ac12-d6f9348faa0c)
 
 # Class diagram
 
