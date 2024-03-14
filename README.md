@@ -33,3 +33,16 @@ This class diagram illustrates the Car and PlayerVehicle classes, along with the
 # Conclusion
 
 The creation of this video game was made in visual studio code and strengthens the player's dexterity since the faster the level goes, the more concentrated they will have to be to be able to advance as much as possible.
+
+
+# ________________________________________________________________________________________________
+
+# game manual
+
+The game starts with the car on the road and you will have to evade the majority of vehicles so that your vehicle increases its speed and you can increase your points and reach a better level. Keep in mind that the car increases its speed every five vehicles.
+
+# controls
+Use the left and right arrows on your keyboard to evade the targets
+
+# crashes
+If you crash you will have the opportunity to get out or try again
