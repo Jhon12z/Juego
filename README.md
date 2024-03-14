@@ -13,5 +13,6 @@ The creation of this video game was made in visual studio code and strengthens t
 # Class diagram
 
 This class diagram illustrates the Car and PlayerVehicle classes, along with their characteristics. The connection between them is that VehiclePlayer is derived from Car. Likewise, both classes take advantage of functionalities offered by the pygame module, such as image management.
+
 ![diagrama de clases ](https://github.com/Jhon12z/Juego/assets/133507283/df67be78-3b5b-4a0d-b2ca-53f3ad904590)
 
