@@ -9,3 +9,9 @@ his game is about dodging as many cars as possible so that the car advances fast
 # Conclusion
 
 The creation of this video game was made in visual studio code and strengthens the player's dexterity since the faster the level goes, the more concentrated they will have to be to be able to advance as much as possible.
+
+# Class diagram
+
+This class diagram illustrates the Car and PlayerVehicle classes, along with their characteristics. The connection between them is that VehiclePlayer is derived from Car. Likewise, both classes take advantage of functionalities offered by the pygame module, such as image management.
+![diagrama de clases ](https://github.com/Jhon12z/Juego/assets/133507283/df67be78-3b5b-4a0d-b2ca-53f3ad904590)
+
