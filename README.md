@@ -42,6 +42,11 @@ The creation of this video game was made in visual studio code and strengthens t
 
 The game starts with the car on the road and you will have to evade the majority of vehicles so that your vehicle increases its speed and you can increase your points and reach a better level. Keep in mind that the car increases its speed every five vehicles.
 
+
+referencia imagenes 
+
+https://st2.depositphotos.com/2885805/5432/v/450/depositphotos_54320587-stock-illustration-cars-icons-top-view.jpg
+
 # controls
 Use the left and right arrows on your keyboard to evade the targets
 
